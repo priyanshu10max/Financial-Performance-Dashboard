@@ -27,3 +27,18 @@ This project showcases a dynamic and interactive financial dashboard built using
 - GitHub (Version control)
 
 
+
+customer-churn-prediction/
+├── data/
+├── notebooks/
+├── api/
+│   ├── main.py
+│   └── model.pkl
+├── Dockerfile
+├── requirements.txt
+├── README.md
+└── deployment/
+    └── ec2_setup.md
+
+
+
